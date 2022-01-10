@@ -1,3 +1,4 @@
 *.py
 myfirstlocalfile.txt
 *.js
+*.vs
